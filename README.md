@@ -1,5 +1,4 @@
 ## INRL Multi Device Whatsapp Bot.
-
 ***
 
 ### SETUP
